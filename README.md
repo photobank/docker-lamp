@@ -1,2 +1,2 @@
-# docker-lamp
-LAMP environment Dockerfile 
+# docker-node
+Node environment Dockerfile providing search-client build
